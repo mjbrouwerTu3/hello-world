@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello,
+
+  I'm Mike, I love my family, gaming, sports and now coding!
